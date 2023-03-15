@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757576756464",
+    "project_id": "phoneverificationbloc",
+    "storage_bucket": "phoneverificationbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757576756464:android:07a34c1ddb33d878f9e635",
+        "android_client_info": {
+          "package_name": "com.phone.phone_auth_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757576756464-inel7ioe3a3e8bhrcuatpg8s1vqprspe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phone.phone_auth_bloc",
+            "certificate_hash": "2d856049df5596471ba8b55f1e20cf0dc2ba5b96"
+          }
+        },
+        {
+          "client_id": "757576756464-82vceur2jdloh307fekgdj2tlo6tre1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_50d76S0fKsSoXl-1F8IpnJphfDO3klE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757576756464-82vceur2jdloh307fekgdj2tlo6tre1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
